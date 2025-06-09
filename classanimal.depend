@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1746516549 source:e:\eaita\classanimal\main.cpp
+	<iostream>
+	<string>
+	"Animal.h"
+
+1746516687 e:\eaita\classanimal\animal.h
+	<string>
+
+1746516881 source:e:\eaita\classanimal\animal.cpp
+	"Animal.h"
+	<iostream>
+	<string>
